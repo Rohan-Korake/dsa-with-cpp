@@ -7,7 +7,6 @@ int main() {
 
   cout << "Value of name is " << name << endl;
   cout << "Size of string dataype is " << sizeof(string) << " Bytes" << endl;
-  cout << "Size of Struct datatype is " << sizeof(MyStruct) << " Bytes" << endl;
 
   return 0;
 }
