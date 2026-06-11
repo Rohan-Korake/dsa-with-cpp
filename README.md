@@ -7,3 +7,8 @@
 <p align="center">
   Learning • Practicing • Improving • Growing
 </p>
+
+## Concepts Learned
+
+1. Introduction
+2. Data Types
