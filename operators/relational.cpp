@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+
   int num1 = 5, num2 = 10;
   // 1 means true 0 means false
 

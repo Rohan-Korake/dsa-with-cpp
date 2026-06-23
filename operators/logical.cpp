@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() {
+
   int num1 = 5, num2 = 10;
-  // 1 means true zero means false
+  // 1 means true 0 means false
 
   cout << "AND : " << (num1 && num2) << endl;
   cout << "OR : " << (num1 || num2) << endl;
