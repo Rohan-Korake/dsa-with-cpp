@@ -15,3 +15,4 @@
 3. Type Casting
 4. Operators
 5. Conditional Statements
+6. Loops
