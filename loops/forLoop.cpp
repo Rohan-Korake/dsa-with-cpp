@@ -4,7 +4,8 @@ using namespace std;
 int main() {
   int num = 10;
 
-  for (int i = 0; i < num; i++) {
+  // This will run still i not equal to num
+  for (int i = 1; i <= num; i++) {
     cout << "Next number is " << i << endl;
   }
 
