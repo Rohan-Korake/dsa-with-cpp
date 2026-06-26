@@ -17,3 +17,4 @@
 5. Conditional Statements
 6. Loops
 7. Patterns
+8. Functions
