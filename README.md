@@ -21,3 +21,4 @@
 9. Binary System
 10. Scope
 11. Data Modifiers
+12. Arrays
