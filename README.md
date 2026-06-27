@@ -18,3 +18,4 @@
 6. Loops
 7. Patterns
 8. Functions
+9. Binary System

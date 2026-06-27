@@ -11,6 +11,6 @@ int showData(string name, int age) {
 int main() {
   string name = "Coder";
   int age = 18;
-  showData(name, age); // sending parameter
+  showData(name, age); // passing argument 
   return 0;
 }
