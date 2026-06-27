@@ -22,3 +22,7 @@
 10. Scope
 11. Data Modifiers
 12. Arrays
+<<<<<<< HEAD
+=======
+13. Vectors
+>>>>>>> e208ecc (feat: add arays)
