@@ -19,3 +19,4 @@
 7. Patterns
 8. Functions
 9. Binary System
+10. Scope
