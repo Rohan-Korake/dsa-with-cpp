@@ -8,7 +8,7 @@
   Learning • Practicing • Improving • Growing
 </p>
 
-## Concepts Learned
+## Learning Roadmap
 
 1. Introduction
 2. Data Types
@@ -20,3 +20,4 @@
 8. Functions
 9. Binary System
 10. Scope
+11. Data Modifiers
