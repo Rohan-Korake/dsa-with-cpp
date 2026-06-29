@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+
   // vector declaration
   vector<int> vec; // by defualt this is 0
 

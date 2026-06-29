@@ -10,19 +10,16 @@
 
 ## Learning Roadmap
 
-1. Introduction
-2. Data Types
-3. Type Casting
-4. Operators
-5. Conditional Statements
-6. Loops
-7. Patterns
-8. Functions
-9. Binary System
-10. Scope
-11. Data Modifiers
-12. Arrays
-<<<<<<< HEAD
-=======
-13. Vectors
->>>>>>> e208ecc (feat: add arays)
+1. [Introduction](./Introduction)
+2. [Data Types](./dataTypes)
+3. [Type Casting](./typeCasting)
+4. [Operators](./operators)
+5. [Conditional Statements](./conditionalState)
+6. [Loops](./loops)
+7. [Patterns](./patterns)
+8. [Functions](./functions)
+9. [Binary System](./binarySystem)
+10. [Scope](./scope)
+11. [Data Modifiers](./dataModifiers)
+12. [Arrays](./arrays)
+13. [Vectors](./vectors)

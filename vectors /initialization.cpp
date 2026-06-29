@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+
   // METHOD 01 to intialization
   // declaration and intialization
   vector<int> vec1 = {1, 2, 3, 4, 5};
