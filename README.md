@@ -24,4 +24,5 @@
 12. [Arrays](./arrays)
 13. [Vectors](./vectors)
 14. [SubArray](./subArray)
-15. [majority Element](./majorityElement)
+15. [Majority Element](./majorityElement)
+16. [Time Complexity](./timeComplexity)
