@@ -24,3 +24,4 @@
 12. [Arrays](./arrays)
 13. [Vectors](./vectors)
 14. [SubArray](./subArray)
+15. [majority Element](./majorityElement)
