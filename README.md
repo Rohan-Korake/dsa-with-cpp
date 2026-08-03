@@ -27,3 +27,4 @@
 15. [Majority Element](./majorityElement)
 16. [Time Complexity](./timeComplexity)
 17. [Exponentail Problems](./exponentailProblems)
+18. [Stock, Buy & Sell](./stockBuySell)
