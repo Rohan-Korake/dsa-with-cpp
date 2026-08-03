@@ -26,3 +26,4 @@
 14. [SubArray](./subArray)
 15. [Majority Element](./majorityElement)
 16. [Time Complexity](./timeComplexity)
+17. [Exponentail Problems](./exponentailProblems)
